@@ -1,20 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FeaturedThemes>
-	<Theme name="Default Theme" url="http://cyanogen-updater.googlecode.com/files/DefaultTheme.json" />
-	<Theme name="SystemForce by Prash" url="http://www.injun.org/themes/SystemForce.json" />
-	<Theme name="Enoch by drpfenderson" url="http://drpfenderson.japanties.org/update_file.json" />
-	<Theme name="AeroBlack by mianosm" url="http://miano.us/android/AeroBlack.json" />
-	<Theme name="DarkDream by Barina" url="http://darkdreamtheme.googlecode.com/files/darkdream.json" />
-	<Theme name="HE-AERO by Ultra Spikey" url="http://heaero.googlecode.com/files/heaero.json" />
-	<Theme name="AlienAqua by Prash" url="http://injun.org/themes/AlienAqua.json" />
-	<Theme name="Hero Mix by nabzilla1990" url="http://android.shadownav.org/chm.json" />
-
-	<Theme name="CustomV7 by ZALGO" url="http://cyanogenmod-custom-theme.googlecode.com/files/Custom.json" />
-	<Theme name="Community Hero Mix by nabzilla1990" url="http://android.shadownav.org/chm.json" />
-	<Theme name="MarksTheme by markvarley" url="http://www.markvarleyphoto.co.uk/files/G1/MarksTheme.json" />
-	<Theme name="Android 2.0 Stock Theme by djengizz" url="http://android-stock-theme.googlecode.com/files/android-stock-theme.json" />
-	<Theme name="Darkstar by freekyfrogy" url="http://android.piratemedia.tv/darkstar/darkstar.json" />
-	<Theme name="RGBYP Hero Eclair by pcmaniacs" url="http://pcmaniacs.net/tux_theme/update_file.json" />
-	<Theme name="M_Blend by sir*mez" url="http://mblend.googlecode.com/files/M_Blend.json" />
-	<Theme name="BlackIce by amac25" url="http://black-icetheme.googlecode.com/files/black-ice-theme.json" />
+	<Theme name="Default Theme" url="http://github.com/myn/warmupdater-manifest/raw/master/DefaultTheme.json" />	
 </FeaturedThemes>
