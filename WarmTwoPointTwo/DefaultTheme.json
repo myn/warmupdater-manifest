@@ -13,6 +13,10 @@
             "description": "Transparent Titlebar",
             "branch": "S",
             "filename": "update-TransparentTitlebar-RLS2.zip"
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            ]
+
         },
         {
             "mod": "myn_Warm_TwoPointTwo_RLS2-Supersonic",
