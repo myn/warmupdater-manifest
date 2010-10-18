@@ -18,15 +18,99 @@
             ]
 
         },
+		        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Themed LauncherPro",
+            "version": "0.8.1.0",
+            "description": "Warm TwoPointTwo themed LauncherPro v0.8.1.0",
+            "branch": "S",
+            "filename": "update-LauncherPro-0.8.1.0-Warm2.2-Themed.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/LauncherPro-JustBottom.jpg"
+            ]
+
+        },
         {
-            "mod": "myn_Warm_TwoPointTwo_RLS2-Supersonic",
+            "mod": "*",
             "board": "supersonic",
             "type": "theme",
             "name": "Stock HTC_IME For Evo",
-            "version": "2",
+            "version": "1",
             "description": "Stock/default) keyboard that comes with HTC EVO (with arrows)",
             "branch": "S",
             "filename": "update-EVO-HTC_IME.zip"
+        },		
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Collin_ph Battery Tweak",
+            "version": "1",
+            "description": "Collin_ph Battery Tweak For Evo",
+            "branch": "S",
+            "filename": "update_Collin_Ph_Battery_Tweak-EVO.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Stock Android Font",
+            "version": "1",
+            "description": "Stock (Default) Android Font",
+            "branch": "S",
+            "filename": "update_StockFont-signed.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "wrxmemp's WarmLines BootAnimation",
+            "version": "1",
+            "description": "wrxmemp's WarmLines BootAnimation",
+            "branch": "S",
+            "filename": "update-wrx4memp-WarmLines-BootAnimation.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "wrx4memp's Warm 3 BootAnimation",
+            "version": "1",
+            "description": "wrx4memp's Warm 3 BootAnimation",
+            "branch": "S",
+            "filename": "update-wrx4memp-Warm3-BootAnimation.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "luniz7's BootAnimation",
+            "version": "1",
+            "description": "luniz7's BootAnimation",
+            "branch": "S",
+            "filename": "update-luniz7-BootAnimation.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "KiNgxKernel #9 BFS Kernel",
+            "version": "1",
+            "description": "KiNgxKernel #9 BFS Kernel",
+            "branch": "S",
+            "filename": "KiNgxKernel-Evo-9-BFS318-2.6.32.15-Flashable.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "KiNgxKernel #11 CFS Kernel",
+            "version": "1",
+            "description": "KiNgxKernel #11 CFS Kernel",
+            "branch": "S",
+            "filename": "KiNgxKernel-Evo-11-2.6.32.24-Flashable.zip"
         },
     ]
 }
