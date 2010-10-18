@@ -1,0 +1,28 @@
+{
+    "MirrorList": [
+        "http://sdx-downloads.com/EVO/devs/myn/WarmUpdater/WarmTwoPointTwo/",
+        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/"
+    ],
+    "UpdateList": [
+        {
+            "mod": "myn_Warm_TwoPointTwo_RLS2-Supersonic",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Transparent Titlebar",
+            "version": "2",
+            "description": "Transparent Titlebar",
+            "branch": "S",
+            "filename": "update-TransparentTitlebar-RLS2.zip"
+        },
+        {
+            "mod": "myn_Warm_TwoPointTwo_RLS2-Supersonic",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Stock HTC_IME For Evo",
+            "version": "2",
+            "description": "Stock/default) keyboard that comes with HTC EVO (with arrows)",
+            "branch": "S",
+            "filename": "update-EVO-HTC_IME.zip"
+        },
+    ]
+}
