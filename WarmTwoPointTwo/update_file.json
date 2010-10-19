@@ -12,7 +12,7 @@
             "version": "3",
             "description": "Added More Performance tweaks| Collin_ph_battery Tweak ported to EVO (optional)| Fixed HTC Music Widget crashing upon adding to Home Screen| Transparent titlebar (optional)| Brand new custom Boot Animation and sound (Thank you wrx4memp)| Crazy fast Hot Restart option added to reboot options. Now have the ability to restart in under 10 seconds| Sprint Hotspot added and unlocked so it is now free| Added DSP Manager (Digital Signal Processing) to boost audio and equalize sound for Headset| Phone Speaker and Bluetooth devices| Added RomManager and OTA update support for ROM. Pro users will now get notified of updates automatically| Fixed issue where not all titlebar icons were transparent| Changed battery indicator in titlebar to use less *bright* colors making the % indication more readable| Updated Google Maps/Navigation| Updated Google Search| Added official EVO HTC_IME (With arrows) (Optional)| Added USB Tethering mod disabling Sprint Authentication (Thanks Calkulin)| Raised available MMS size Limit to 5mb (Default is still 2mb) (Thanks Calkulin)| Added MMS Compression mod eliminating image compression unless it's over the limit (Thanks Calkulin)| Changed confusing titlebar CDMA signal icons (no more coat hanger!!)| Lots of little bug fixes| And much more..",
             "branch": "S",
-            "filename": "myn-WarmTwoPointTwo-10-15-2010-RLS-2.zip",	
+            "filename": "myn-WarmTwoPointTwo-10-15-2010-RLS-2.zip"
         },
         {
             "mod": "Supersonic",
