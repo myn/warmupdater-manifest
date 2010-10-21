@@ -2,5 +2,7 @@
 <changelog>
 	<Version name="1.0">
 		<item>Initial Release</item>		
+		<item>Now hosted on github</item>		
+		<item>Base of cgupdater 5.01</item>		
 	</Version>
 </changelog>
