@@ -3,6 +3,6 @@
 	<Version name="1.0">
 		<item>Initial Release</item>		
 		<item>Now hosted on github</item>		
-		<item>Base off cmupdater 5.01</item>		
+		<item>Base off cmupdater 5.0.1</item>		
 	</Version>
 </changelog>
