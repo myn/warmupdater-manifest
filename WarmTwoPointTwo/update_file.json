@@ -1,10 +1,22 @@
 {
     "MirrorList": [
         "http://sdx-downloads.com/EVO/devs/myn/WarmUpdater/WarmTwoPointTwo/",
-        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/"
+        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/",
+		"http://www.bitbattles.com/~myn/WarmUpdater/WarmTwoPointTwo/",
+		"http://www.chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"
     ],
-    "UpdateList": [
-        {
+    "UpdateList": [        
+		{
+            "mod": "Supersonic",
+            "board": "supersonic",
+            "type": "rom",
+            "name": "Warm TwoPointTwo RLS 3",
+            "version": "3",
+            "description": "New Base - Official HTC 3.30.651.2 With 2.6.32.15-g0f673ed #10 Kernel| Lots of performance improvements| Brand new HTC themed dialer (Thanks DJZager - Keep your eyes on this guy folks)| Sense (Rosie) launcher buttons now configurable through new application, Rosie Settings| Major Rosie upgrade - Compatible with new Rosie Settings application - Sexier Rosie (Thanks deficitism)| New WarmUpdater app providing OTA Updates for Rom, Addons and Themes| Added new Desire HD FlipClock (This can be removed, moved or readded)| New button visual enhancements| Updated Wireless Tether to 2.0.5 Pre11| Updated BusyBox to v1.16.2| Fixed isolated issue where Titanium Backup wasn't able to backup properly| Updated DSP Manager| Updated audio library to support new DSP Manager and to resolve static noise issue some users were experiencing| Updated YouTube to GingerBread release 2.0.26| Updated Google Maps/Nav to v4.6| Updated Sprint Visual VoiceMail to T.5.1.0.48| Uppdated Google Voice Search to 2.0.1| Fixed finger touch calibration tool force closing in HTC_IME_MOD| Added support for ## Programming Codes (ex ##775#)| GPS icon in titlebar now only visible when GPS is enabled (Thanks JsChiSurf)| Fixed USB debugging connected message appearing in Calendar app| Sped up iPhone animations/transitions by 50% (Thanks deficitism)| Lots of little bug fixes| And much more..",
+            "branch": "S",
+            "filename": "myn-WarmTwoPointTwo-11-05-2010-RLS-3.zip"
+        },
+		{
             "mod": "Supersonic",
             "board": "supersonic",
             "type": "rom",

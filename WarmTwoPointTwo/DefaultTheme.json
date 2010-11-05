@@ -1,11 +1,12 @@
 {
     "MirrorList": [
         "http://sdx-downloads.com/EVO/devs/myn/WarmUpdater/WarmTwoPointTwo/",
-        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/"
+        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/",
+		"http://www.bitbattles.com/~myn/WarmUpdater/WarmTwoPointTwo/"
     ],
     "UpdateList": [
         {
-            "mod": "myn_Warm_TwoPointTwo_RLS2.95-Supersonic",
+            "mod": "myn_Warm_TwoPointTwo_RLS3-Supersonic",
             "board": "supersonic",
             "type": "theme",
             "name": "Transparent Titlebar",
