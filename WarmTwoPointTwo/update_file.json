@@ -1,9 +1,11 @@
 {
-    "MirrorList": [
+    "MirrorList": [       	
         "http://sdx-downloads.com/EVO/devs/myn/WarmUpdater/WarmTwoPointTwo/",
         "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/",
 		"http://www.bitbattles.com/~myn/WarmUpdater/WarmTwoPointTwo/",
-		"http://www.chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"
+		"http://myn.onicrom.com/WarmUpdater/WarmTwoPointTwo/",
+		"http://myn.ziggy471.com/WarmUpdater/WarmTwoPointTwo/",
+		"http://chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"		
     ],
     "UpdateList": [        
 		{
