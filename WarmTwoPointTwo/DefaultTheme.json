@@ -59,6 +59,16 @@
             "description": "Stock/default) keyboard that comes with HTC EVO (with arrows)",
             "branch": "S",
             "filename": "update-EVO-HTC_IME.zip"
+        },
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Stock HTC_IME For Evo TEST",
+            "version": "1",
+            "description": "Stock/default) keyboard that comes with HTC EVO (with arrows)",
+            "branch": "S",
+            "filename": "update-EVO-HTC-IME.zip"
         },		
         {
             "mod": "*",
