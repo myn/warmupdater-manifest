@@ -7,7 +7,17 @@
 		"http://myn.ziggy471.com/WarmUpdater/WarmTwoPointTwo/",
 		"http://chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"		
     ],
-    "UpdateList": [        
+    "UpdateList": [         
+		{
+            "mod": "Supersonic",
+            "board": "supersonic",
+            "type": "rom",
+            "name": "Warm TwoPointTwo RLS 4",
+            "version": "4",
+            "description": "New Base - Official HTC 3.30.651.3 With 2.6.32.15-g59b9e50 #17 Kernel| Total overhaul of framework optimizing for speed.  The fastest release yet!| Added Power Controls in notification pulldown (Thanks JsChiSurf, DJZager and HeyItsLou)| Added Hulu (Optional install)| New Warm themed Market| New default keyboard - Warm themed EVO HTC_IME (With arrows) (Thanks to DJZager - This guy is on fire)| HTC_IME_MOD from RLS 3 is available as optional install| New optional kernel designed for Warm TwoPointTwo by Ziggy471  (Thanks Ziggy471)| Browser modified so text reflow is disabled when using pinch-to-zoom (Thanks Calkulin and SNQ)| New font DarkStar/Coconut (Available as optional install)| Brand new custom Boot Animation and dropped the boot sound (Thanks wrx4memp)| WarmDesire FlipClock by Gomorrah (Available as optional install)| Faster boot time| Updated Rom Manager to 2.5.0.7| Updated Sprint Football Live to 2.2.44| Fixed debug icons appearing in Calendar app while using LauncherPro| Updated Wireless Tether to 2.0.5 Pre14| Sync / Charging titlebar icons now animated| USB Debugging titlebar notification icon removed| Updated Adobe Flash to 10.1.105.6| Rom update now forces recursive delete of CACHE during install/update| Updated Google Maps/Navigation to 4.7.0| Other minor bug fixes| And much more..",
+            "branch": "S",
+            "filename": "myn-WarmTwoPointTwo-11-25-2010-RLS-4.zip"
+        },       
 		{
             "mod": "Supersonic",
             "board": "supersonic",

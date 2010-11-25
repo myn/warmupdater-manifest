@@ -9,6 +9,20 @@
     ],
     "UpdateList": [
         {
+            "mod": "myn_Warm_TwoPointTwo_RLS4-Supersonic",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Transparent Titlebar",
+            "version": "4",
+            "description": "Transparent Titlebar",
+            "branch": "S",
+            "filename": "update-TransparentTitlebar-RLS4.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            ]
+
+        },
+        {
             "mod": "myn_Warm_TwoPointTwo_RLS3-Supersonic",
             "board": "supersonic",
             "type": "theme",
@@ -59,6 +73,32 @@
             "description": "Stock/default) keyboard that comes with HTC EVO (with arrows)",
             "branch": "S",
             "filename": "update-EVO-HTC-IME.zip"
+        },
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Themed HTC_IME_MOD (From RLS 3)",
+            "version": "1",
+            "description": "HTC_IME_MOD that came as default keyboard in RLS 3",
+            "branch": "S",
+            "filename": "update-HTC-IME-MOD-WarmThemed.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/HTC-IME-MOD.gif"
+            ]
+        },	
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Hulu",
+            "version": "1",
+            "description": "Hulu application with modded Flash 10.1.105.6. DO NOT update flash from market as it will overwrite mod to support Hulu",
+            "branch": "S",
+            "filename": "update-Hulu-WarmTwoPointTwo-10-1-105-6.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS4/Hulu.png"
+            ]
         },		
         {
             "mod": "*",
@@ -80,6 +120,32 @@
             "branch": "S",
             "filename": "update_StockFont-signed.zip"
         },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "DarkStar/Coconut Font",
+            "version": "1",
+            "description": "DarkStar/Coconut Font also used as default font in previous roms: Warm Donut and Warm Eclair.",
+            "branch": "S",
+            "filename": "update-DarkStar-Coconut-Font.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/DarkstarCoconutFont.gif"
+            ]
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "Gomorrahs WarmDesire FlipClock",
+            "version": "1",
+            "description": "Gomorrahs WarmDesire FlipClock",
+            "branch": "S",
+            "filename": "update-gomorrah-WarmDesire-FlipClock.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/gomorrah-WarmDesire-FlipClock.jpg"
+            ]
+        },						
         {
             "mod": "*",
             "board": "supersonic",
@@ -114,6 +180,26 @@
             "mod": "*",
             "board": "supersonic",
             "type": "theme",
+            "name": "Ziggy471 Warm TwoPointTwo RLS4 Kernel",
+            "version": "1",
+            "description": "Ziggy471 Kernel designed for Warm TwoPointTwo RLS4",
+            "branch": "S",
+            "filename": "update-Ziggy471Kernel-WarmTwoPointTwo-RLS4.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
+            "name": "HTC Stock #10 Kernel From 3.30.651.1",
+            "version": "1",
+            "description": "HTC Stock 2.6.32.15-g0f673ed #10 Kernel",
+            "branch": "S",
+            "filename": "update-htc-kernel-2.6.32.15-g0f673ed-10.zip"
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
             "name": "KiNgxKernel #9 BFS Kernel",
             "version": "1",
             "description": "KiNgxKernel #9 BFS Kernel",
@@ -129,6 +215,6 @@
             "description": "KiNgxKernel #11 CFS Kernel",
             "branch": "S",
             "filename": "KiNgxKernel-Evo-11-2.6.32.24-Flashable.zip"
-        },
+        }
     ]
 }
