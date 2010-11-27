@@ -137,6 +137,19 @@
             "mod": "*",
             "board": "supersonic",
             "type": "theme",
+            "name": "AOSP Vanilla Lockscreen",
+            "version": "1",
+            "description": "Removes HTC Lockscreen",
+            "branch": "S",
+            "filename": "update-AOSP-Vanilla-LockScreen.zip",
+			"Screenshots": [ 
+                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/AOSP-Vanilla-Lockscreen.jpg"
+            ]
+        },				
+        {
+            "mod": "*",
+            "board": "supersonic",
+            "type": "theme",
             "name": "Gomorrahs WarmDesire FlipClock",
             "version": "1",
             "description": "Gomorrahs WarmDesire FlipClock",
