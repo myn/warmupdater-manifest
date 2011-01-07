@@ -7,7 +7,17 @@
 		"http://myn.ziggy471.com/WarmUpdater/WarmTwoPointTwo/",
 		"http://chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"		
     ],
-    "UpdateList": [         
+    "UpdateList": [         		
+		{
+            "mod": "Supersonic",
+            "board": "supersonic",
+            "type": "rom",
+            "name": "Warm TwoPointTwo RLS 5 (WARNING: PLEASE READ CHANGELOG BEFORE FLASHING)",
+            "version": "5",
+            "description": "NOTE: PLEASE UPDATE RADIO (2.15.00.11.19), WIMAX (27167_R01), PRI & NV (1.90_003) BEFORE FLASHING.| Updated to official Sprint base 3.70.651.1 - 2.6.32.17-gee557fd htc-kernel@and18-2 #15| Added 4G Toggle to Notification Power Controls (Thanks JsChiSurf)| Fixed Notification Power Control. Indicators now keep in sync with actual state of services (Thanks JsChiSurf)| Added Warm Themed OTA Swype keyboard (Thanks DJZager)| Data throttling governor removed (Thanks BThomas22x) (Optional Install)  Note this mod will disable the Menu | Wireless & Networks | Mobile Networks settings (force close).  An unfortunate side effect of this mod.| Ad-Free Hosts file added (No more advertisements)| Updated Darktremor Apps2SD (2.7.5.2)| Added custom SpareParts| Added GingerBread Calculator (HTC Calculator Widget remains)| Added new Warm Themed Gmail (2.3.2) (Thanks scarfacedag)| Added new Warm Themed Market (2.2.7) (Thanks thebowers and scarfacedag)| Added mod to sustain volume when in car dock  (Volume level does not decrease when the phone is in dock) (Thanks 1gr8ftoy) (Optional Install).  NOTE: This mod will break FM Radio.| Added GingerBread menu / submenu (Optional Install)| Added Nexus S LiveWallpaper| Added flash_image (Thanks cavediver)| Added the following new Sprint apps to sdcard/Warm_2.2_Optional1/ (Blockbuster, Kindle eReader, NOVA Demo, Sprint Zone Update, New Sprint Nav, New Sprint TV)| Updated SuperUser / su (2.3.6.1)| Updated Hulu to support latest Flash update (10.1.105.7)  (Optional install)| Updated Themed LauncherPro for Warm TwoPointTwo (0.8.2) (Optional install)| Updated Flash (10.1.105.7)| Updated VoiceSearch (2.1.1)| Updated Maps/Navigation (5.0.0)| Updated Google Search (1.1.2.64376)| Updated RomManager (3.0.0.2)| Updated Wireless Tether (2.0.5)| Updated YouTube (2.1.6)| Fixed Power Menu Icons, now full color. (Thanks roscoenr)| Removed unnecessary DRM services and Logging introduced in 3.70 base| Converted update-script to updater-script to support ClockWork Recovery 3.x| Minor theming changes| More performance tweaks| Other minor bug fixes| And much much more..",
+            "branch": "S",
+            "filename": "myn-WarmTwoPointTwo-01-07-2011-RLS-5.zip"
+        },       		
 		{
             "mod": "Supersonic",
             "board": "supersonic",
