@@ -1,11 +1,10 @@
 {
     "MirrorList": [
         "http://sdx-downloads.com/EVO/devs/myn/WarmUpdater/WarmTwoPointTwo/",
-        "http://itruplayer.com/myn/WarmUpdater/WarmTwoPointTwo/",
-		"http://www.bitbattles.com/~myn/WarmUpdater/WarmTwoPointTwo/",
-		"http://myn.onicrom.com/WarmUpdater/WarmTwoPointTwo/",
-		"http://myn.ziggy471.com/WarmUpdater/WarmTwoPointTwo/",
-		"http://chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/"
+        "http://myn.onicrom.com/WarmUpdater/WarmTwoPointTwo/",
+        "http://myn.ziggy471.com/WarmUpdater/WarmTwoPointTwo/",
+        "http://chiznillen.net/myn/WarmUpdater/WarmTwoPointTwo/",
+        "http://myn.goo-inside.me/WarmUpdater/WarmTwoPointTwo/"
     ],
     "UpdateList": [
         {
@@ -17,10 +16,9 @@
             "description": "Transparent Titlebar",
             "branch": "S",
             "filename": "update-TransparentTitlebar-RLS5.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
             ]
-
         },
         {
             "mod": "myn_Warm_TwoPointTwo_RLS4-Supersonic",
@@ -31,10 +29,9 @@
             "description": "Transparent Titlebar",
             "branch": "S",
             "filename": "update-TransparentTitlebar-RLS4.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
             ]
-
         },
         {
             "mod": "myn_Warm_TwoPointTwo_RLS3-Supersonic",
@@ -45,10 +42,9 @@
             "description": "Transparent Titlebar",
             "branch": "S",
             "filename": "update-TransparentTitlebar-RLS3.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
             ]
-
         },
         {
             "mod": "myn_Warm_TwoPointTwo_RLS2-Supersonic",
@@ -59,12 +55,11 @@
             "description": "Transparent Titlebar",
             "branch": "S",
             "filename": "update-TransparentTitlebar-RLS2.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/TransparentTitlebar-JustTop.jpg"
             ]
-
         },
-		        {
+        {
             "mod": "*",
             "board": "supersonic",
             "type": "theme",
@@ -73,10 +68,9 @@
             "description": "Warm TwoPointTwo themed LauncherPro v0.8.1.1",
             "branch": "S",
             "filename": "update-LauncherPro-0.8.2-Warm2.2-Themed.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/LauncherPro-JustBottom.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS2/LauncherPro-JustBottom.jpg"
             ]
-
         },
         {
             "mod": "*",
@@ -97,10 +91,10 @@
             "description": "HTC_IME_MOD that came as default keyboard in RLS 3",
             "branch": "S",
             "filename": "update-HTC-IME-MOD-WarmThemed.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/HTC-IME-MOD.gif"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/HTC-IME-MOD.gif"
             ]
-        },	
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -110,10 +104,10 @@
             "description": "Hulu application with modded Flash 10.1.105.7. DO NOT update flash from market as it will overwrite mod to support Hulu",
             "branch": "S",
             "filename": "update-Hulu-WarmTwoPointTwo-10-1-105-7.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS4/Hulu.png"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Warm%20TwoPointTwo-RLS4/Hulu.png"
             ]
-        },		
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -123,7 +117,7 @@
             "description": "Volume level now remains at max when the phone is in car dock.  NOTE: This mod will break FM Radio.",
             "branch": "S",
             "filename": "update-CarDock-Volume-Increase.zip"
-        },		
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -133,7 +127,7 @@
             "description": "Data throttling governer removed. Note this mod will disable the Menu | Wireless & Networks | Mobile Networks settings (force close).  An unfortunate side effect of this mod.",
             "branch": "S",
             "filename": "update-Data-Governor-Removal-RLS5.zip"
-        },		
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -143,7 +137,7 @@
             "description": "Collin_ph Battery Tweak For Evo",
             "branch": "S",
             "filename": "update_Collin_Ph_Battery_Tweak-EVO.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -153,7 +147,7 @@
             "description": "From RLS3.  When you pinch to zoom the browser will reflow.",
             "branch": "S",
             "filename": "update-Browser-Reflow-Enabled.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -163,8 +157,8 @@
             "description": "Keyboard from Gingerbread (2.3) Ported to Froyo.",
             "branch": "S",
             "filename": "update-Gingerbread-Keyboard.zip"
-        },				        
-		{
+        },
+        {
             "mod": "*",
             "board": "supersonic",
             "type": "theme",
@@ -173,7 +167,7 @@
             "description": "Stock (Default) Android Font",
             "branch": "S",
             "filename": "update_StockFont-signed.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -183,10 +177,10 @@
             "description": "DarkStar/Coconut Font also used as default font in previous roms: Warm Donut and Warm Eclair.",
             "branch": "S",
             "filename": "update-DarkStar-Coconut-Font.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/DarkstarCoconutFont.gif"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/DarkstarCoconutFont.gif"
             ]
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -196,10 +190,10 @@
             "description": "Removes HTC Lockscreen",
             "branch": "S",
             "filename": "update-AOSP-Vanilla-LockScreen.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/AOSP-Vanilla-Lockscreen.jpg"		
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/AOSP-Vanilla-Lockscreen.jpg"
             ]
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -209,10 +203,10 @@
             "description": "Gomorrahs WarmDesire FlipClock",
             "branch": "S",
             "filename": "update-gomorrah-WarmDesire-FlipClock.zip",
-			"Screenshots": [ 
-                    "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/gomorrah-WarmDesire-FlipClock.jpg"
+            "Screenshots": [
+                "http://i216.photobucket.com/albums/cc41/mynym/HTC%20EVO/ROMS/Optional/gomorrah-WarmDesire-FlipClock.jpg"
             ]
-        },	
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -222,7 +216,7 @@
             "description": "BootAnimation from RLS3",
             "branch": "S",
             "filename": "update-RLS3-BootAnimation.zip"
-        },				        				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -232,7 +226,7 @@
             "description": "wrxmemp's WarmLines BootAnimation",
             "branch": "S",
             "filename": "update-wrx4memp-WarmLines-BootAnimation.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -242,7 +236,7 @@
             "description": "wrx4memp's Warm 3 BootAnimation",
             "branch": "S",
             "filename": "update-wrx4memp-Warm3-BootAnimation.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -252,7 +246,7 @@
             "description": "luniz7's BootAnimation",
             "branch": "S",
             "filename": "update-luniz7-BootAnimation.zip"
-        },	
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -262,7 +256,7 @@
             "description": "ms79723's SBC for Netarchy's CFS More Aggressive 4.1.9.1 Kernel (v7)",
             "branch": "S",
             "filename": "SBC-net-4.1.9.1-more-havs-v7.zip"
-        },						
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -272,7 +266,7 @@
             "description": "Ziggy471 Kernel designed for Warm TwoPointTwo RLS4",
             "branch": "S",
             "filename": "update-Ziggy471Kernel-WarmTwoPointTwo-RLS4.zip"
-        },				
+        },
         {
             "mod": "4",
             "board": "supersonic",
@@ -282,7 +276,7 @@
             "description": "HTC Stock 2.6.32.15-g0f673ed #10 Kernel",
             "branch": "S",
             "filename": "update-htc-kernel-2.6.32.15-g0f673ed-10.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
@@ -292,7 +286,7 @@
             "description": "KiNgxKernel #9 BFS Kernel",
             "branch": "S",
             "filename": "KiNgxKernel-Evo-9-BFS318-2.6.32.15-Flashable.zip"
-        },				
+        },
         {
             "mod": "*",
             "board": "supersonic",
